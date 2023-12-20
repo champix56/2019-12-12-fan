@@ -1,0 +1,12 @@
+{
+  "name": "2019-12-09-fan",
+  "contributors": [],
+  "version": "1.0.1",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "index.js",
+  "scripts": {
+    "test":"echo DEMAT breizh"
+  },
+  "author": "",
+  "license": "ISC"
+}
